@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using SimpleFrankDemo.Models;
+using Cloud5MinsDemo.Models;
 
-namespace SimpleFrankDemo.Controllers
+namespace Cloud5MinsDemo.Controllers
 {
     public class HomeController : Controller
     {

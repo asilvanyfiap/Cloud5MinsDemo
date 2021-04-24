@@ -1,6 +1,6 @@
 using System;
 
-namespace SimpleFrankDemo.Models
+namespace Cloud5MinsDemo.Models
 {
     public class ErrorViewModel
     {
